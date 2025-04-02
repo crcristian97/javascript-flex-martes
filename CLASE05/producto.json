@@ -1,0 +1,29 @@
+[
+    {
+      "product_id": "MLA861354814",
+      "variation_id": "84680290362",
+      "category": "MLA-SWEATSHIRTS_AND_HOODIES",
+      "subcategory": "MLA109085",
+      "name": "Buzo Polar Domuyo Makalu",
+      "color": "Negro",
+      "size": "XXL",
+      "brand": "Makalu",
+      "model": "Domuyo",
+      "gender": "Hombre",
+      "type": "Buzo",
+      "material": "microfleece",
+      "style": "Polar con medio cierre",
+      "use": "Outdoors- Urbano"
+    },
+    {
+      "product_id": "MLA861354814",
+      "variation_id": "61378675964",
+      "category": "MLA-SWEATSHIRTS_AND_HOODIES",
+      "subcategory": "MLA109085",
+      "name": "Buzo Polar Domuyo Makalu",
+      "color": "Azul marino",
+      "size": "S",
+      "brand": "Makalu",
+      "model": "Domuyo"
+    }
+  ]
